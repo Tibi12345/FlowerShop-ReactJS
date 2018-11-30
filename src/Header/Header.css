@@ -1,0 +1,31 @@
+.Header{
+    height: 50px;
+    background-color:#98FB98;
+    box-shadow:  0px 3px 3px 0px rgba(0,0,0,0.75); 
+  
+  }
+  
+  .logo {
+    float: left;
+    width: 42px;
+  }
+  .floatright{
+    float:right;
+    padding: 15px;
+  }
+  .CenterHeader{
+    padding: 15px;
+  }
+  
+  .LogoutBtn{
+    float: right;
+    margin-left: 15px;
+  }
+  
+  .hidden{
+    visibility: hidden;
+  }
+  
+  .visible{
+    visibility: visible;
+  }

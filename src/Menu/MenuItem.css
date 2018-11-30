@@ -1,0 +1,19 @@
+.MenuItem {
+    padding: 10px;
+    text-align: left;
+    height: 42px
+  }
+  
+  .MenuItem a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .MenuItem.selected {
+    background-color: white;
+  }
+  
+  .MenuItem:hover {
+    cursor: pointer;
+    background-color: #eeeeee;
+  }

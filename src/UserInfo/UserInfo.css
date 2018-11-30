@@ -1,0 +1,23 @@
+.FloatRight {
+    float: right; 
+  }
+  
+  .FloatRight a {
+    text-decoration: none;
+  }
+  
+  .CenterHeader {
+    padding: 15px;
+  }
+  
+  .LogoutBtn {
+    margin-left: 15px;
+  }
+  
+  .visible.hidden {
+    visibility: hidden;
+  }
+  
+  .visible {
+    visibility: visible;
+  }
